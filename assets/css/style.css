@@ -60,6 +60,10 @@ li a:hover {
     color: #4aaaa5;
 }
 
+.active {
+    color: #4aaaa5;
+}
+
 section {
     width: 960px;
     margin: 30px auto;
@@ -119,6 +123,7 @@ form input {
     border: 1px solid #dddddd;
     color: #c7c7c7;
     font-style: italic;
+    font-size: 1em;
 }
 
 form textarea {
